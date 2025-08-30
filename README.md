@@ -3,6 +3,10 @@
 Aplicación web para reservar espacios de coworking (sedes, salas, cabinas…).
 Incluye landing, exploración de sedes y recursos, diálogo de reserva con disponibilidad, autenticación, gestión de perfil (con foto) y panel de gestión de reservas para administradores.
 
+## URL de la pagina subida vercel
+
+[https://practica-final-frontend.vercel.app/](https://practica-final-frontend.vercel.app/)
+
 ## Funcionalidades
 
 - Landing Page con CTA.
